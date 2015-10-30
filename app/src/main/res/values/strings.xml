@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComvertKilometersMilles</string>
+    <string name="toKilometers">To Kilometers</string>
+    <string name="tomiles">To Milles</string>
+</resources>
